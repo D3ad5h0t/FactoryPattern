@@ -1,0 +1,13 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\bin\Debug\netcoreapp3.1\AsyncFactory.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\bin\Debug\netcoreapp3.1\AsyncFactory.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\bin\Debug\netcoreapp3.1\AsyncFactory.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\bin\Debug\netcoreapp3.1\AsyncFactory.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\bin\Debug\netcoreapp3.1\AsyncFactory.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\bin\Debug\netcoreapp3.1\AsyncFactory.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\obj\Debug\netcoreapp3.1\AsyncFactory.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\obj\Debug\netcoreapp3.1\AsyncFactory.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\obj\Debug\netcoreapp3.1\AsyncFactory.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\obj\Debug\netcoreapp3.1\AsyncFactory.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\obj\Debug\netcoreapp3.1\AsyncFactory.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\obj\Debug\netcoreapp3.1\AsyncFactory.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\AsyncFactory\obj\Debug\netcoreapp3.1\AsyncFactory.genruntimeconfig.cache
