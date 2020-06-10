@@ -1,0 +1,13 @@
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\bin\Debug\netcoreapp3.1\PersonFactory.exe
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\bin\Debug\netcoreapp3.1\PersonFactory.deps.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\bin\Debug\netcoreapp3.1\PersonFactory.runtimeconfig.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\bin\Debug\netcoreapp3.1\PersonFactory.runtimeconfig.dev.json
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\bin\Debug\netcoreapp3.1\PersonFactory.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\bin\Debug\netcoreapp3.1\PersonFactory.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\obj\Debug\netcoreapp3.1\PersonFactory.csprojAssemblyReference.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\obj\Debug\netcoreapp3.1\PersonFactory.AssemblyInfoInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\obj\Debug\netcoreapp3.1\PersonFactory.AssemblyInfo.cs
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\obj\Debug\netcoreapp3.1\PersonFactory.csproj.CoreCompileInputs.cache
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\obj\Debug\netcoreapp3.1\PersonFactory.dll
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\obj\Debug\netcoreapp3.1\PersonFactory.pdb
+C:\Users\glushchenko\Dropbox\dotNet\Patterns\Factory\PersonFactory\obj\Debug\netcoreapp3.1\PersonFactory.genruntimeconfig.cache

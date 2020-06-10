@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFactory", "AsyncFactory\AsyncFactory.csproj", "{750777BF-8269-41F7-A508-AA206AB99F83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{72630CBD-2DCF-4CEC-8D39-CE4EC1C99423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonFactory", "PersonFactory\PersonFactory.csproj", "{819FCCB3-E396-4493-A03E-7E3FB1E59AC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{750777BF-8269-41F7-A508-AA206AB99F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{750777BF-8269-41F7-A508-AA206AB99F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{750777BF-8269-41F7-A508-AA206AB99F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72630CBD-2DCF-4CEC-8D39-CE4EC1C99423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72630CBD-2DCF-4CEC-8D39-CE4EC1C99423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72630CBD-2DCF-4CEC-8D39-CE4EC1C99423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72630CBD-2DCF-4CEC-8D39-CE4EC1C99423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819FCCB3-E396-4493-A03E-7E3FB1E59AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819FCCB3-E396-4493-A03E-7E3FB1E59AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819FCCB3-E396-4493-A03E-7E3FB1E59AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819FCCB3-E396-4493-A03E-7E3FB1E59AC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
